@@ -34,6 +34,7 @@
     <rom index="0" zip="parodiusj.zip|parodius.zip" md5="None" address="0x30000000" asm_md5="17ae9144a8e0d8878766602745ba7440">
         <!--  Header to identify the PCB type
         Byte 0 = 1 - Parodius
+        Byte 0 = 4 - Surprise Attack
                   -->
         <part>
             01 00 00 00 </part>
@@ -64,7 +65,7 @@
         </interleave>
         <!-- Total 0x3E0000 bytes - 3968 kBytes -->
     </rom>
-    <nvram index="2" size="28833"/>
+    <nvram index="2" size="37025"/>
     <!-- 16-pxl black frame on sides. -->
     <rom index="1">
         <part>60 B0</part>

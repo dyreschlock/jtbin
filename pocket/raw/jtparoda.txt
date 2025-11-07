@@ -9,6 +9,9 @@ Parodius Da!: Shinwa kara Owarai e (World, set 1) --> parodius.rom
 Parodius Da!: Shinwa kara Owarai e (Asia) --> parodiusa.rom
 Parodius Da!: Shinwa kara Owarai e (World, set 2) --> parodiuse.rom
 Parodius Da!: Shinwa kara Owarai e (Japan) --> parodiusj.rom
+Surprise Attack (World ver. K) --> suratk.rom
+Surprise Attack (Asia ver. L) --> suratka.rom
+Surprise Attack (Japan ver. M) --> suratkj.rom
 
 
 These files are generated using the mra tool in:

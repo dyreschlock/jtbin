@@ -749,6 +749,9 @@
 | paroda  | Parodius Da!: Shinwa kara Owarai e (Japan)                                                 | parodiusj     |
 | paroda  | Parodius Da!: Shinwa kara Owarai e (World, set 1)                                          | parodius      |
 | paroda  | Parodius Da!: Shinwa kara Owarai e (World, set 2)                                          | parodiuse     |
+| paroda  | Surprise Attack (Asia ver. L)                                                              | suratka       |
+| paroda  | Surprise Attack (Japan ver. M)                                                             | suratkj       |
+| paroda  | Surprise Attack (World ver. K)                                                             | suratk        |
 | pinpon  | Konami's Ping-Pong                                                                         | pingpong      |
 | rastan  | Rastan (US Rev 1)                                                                          | rastanu       |
 | rastan  | Rastan (US)                                                                                | rastanua      |
@@ -796,6 +799,10 @@
 | rumble  | The Speed Rumbler (set 1)                                                                  | srumbler      |
 | rumble  | The Speed Rumbler (set 2)                                                                  | srumbler2     |
 | rumble  | The Speed Rumbler (set 3)                                                                  | srumbler3     |
+| rungun  | Run and Gun (ver EAA 1993 10.4)                                                            | runguna       |
+| rungun  | Run and Gun (ver EAA 1993 10.8)                                                            | rungun        |
+| rungun  | Run and Gun (ver EAA 1993 9.10, prototype?)                                                | rungunb       |
+| rungun  | Run and Gun (ver UBA 1993 10.8)                                                            | rungunua      |
 | s16     | Ace Attacker (Japan, S16A) [FD1094 317-0060]                                               | aceattaca     |
 | s16     | Action Fighter (World, S16A) [FD1089A 317-0018]                                            | afighter      |
 | s16     | Action Fighter (World, S16A) [FD1089B 317-xxxx]                                            | afighterc     |
@@ -919,8 +926,15 @@
 | s18     | Clockwork Aquario (prototype)                                                              | aquario       |
 | s18     | Clutch Hitter (Japan) (FD1094 317-0175)                                                    | cltchitrj     |
 | s18     | Clutch Hitter (US) (FD1094 317-0176)                                                       | cltchitr      |
+| s18     | D. D. Crew (Japan, 2 Players) (FD1094 317-0182)                                            | ddcrewj2      |
+| s18     | D. D. Crew (Japan, 4 Players) (FD1094 317-0185)                                            | ddcrewj       |
+| s18     | D. D. Crew (US, 4 Players) (FD1094 317-0186)                                               | ddcrewu       |
+| s18     | D. D. Crew (World, 2 Players) (FD1094 317-0184)                                            | ddcrew2       |
+| s18     | D. D. Crew (World, 3 Players) (FD1094 317-0190)                                            | ddcrew        |
+| s18     | D. D. Crew (World, 4 Players) (FD1094 317-0187)                                            | ddcrew1       |
 | s18     | Desert Breaker (Japan) (FD1094 317-0194)                                                   | desertbrj     |
 | s18     | Desert Breaker (World) (FD1094 317-0196)                                                   | desertbr      |
+| s18     | Hammer Away (Japan, prototype)                                                             | hamaway       |
 | s18     | Laser Ghost (Japan) (FD1094 317-0164)                                                      | lghostj       |
 | s18     | Laser Ghost (US) (FD1094 317-0165)                                                         | lghostu       |
 | s18     | Laser Ghost (World) (FD1094 317-0166)                                                      | lghost        |
@@ -1024,9 +1038,6 @@
 | slyspy  | Sly Spy (US, revision 2)                                                                   | slyspy2       |
 | slyspy  | Sly Spy (US, revision 3)                                                                   | slyspy3       |
 | slyspy  | Sly Spy (US, revision 4)                                                                   | slyspy        |
-| suratk  | Surprise Attack (Asia ver. L)                                                              | suratka       |
-| suratk  | Surprise Attack (Japan ver. M)                                                             | suratkj       |
-| suratk  | Surprise Attack (World ver. K)                                                             | suratk        |
 | thundr  | Genpei ToumaDen                                                                            | genpeitd      |
 | thundr  | Hopping Mappy                                                                              | hopmappy      |
 | thundr  | Metro-Cross (set 1)                                                                        | metrocrs      |
@@ -1127,4 +1138,4 @@
 | yiear   | Yie Ar Kung-Fu (program code G)                                                            | yiear2        |
 | yiear   | Yie Ar Kung-Fu (program code I)                                                            | yiear         |
 
-71 cores, supporting 1126 games
+71 cores, supporting 1137 games

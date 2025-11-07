@@ -145,6 +145,7 @@
 | pang    | Pang (World)                                                                 | pang      |
 | pang    | Super Pang (World 900914)                                                    | spang     |
 | paroda  | Parodius Da!: Shinwa kara Owarai e (World, set 1)                            | parodius  |
+| paroda  | Surprise Attack (World ver. K)                                               | suratk    |
 | pinpon  | Konami's Ping-Pong                                                           | pingpong  |
 | rastan  | Rastan (World Rev 1)                                                         | rastan    |
 | riders  | Golfing Greats (World, version L)                                            | glfgreat  |
@@ -155,6 +156,7 @@
 | roadf   | Road Fighter (set 1)                                                         | roadf     |
 | roc     | Roc'n Rope                                                                   | rocnrope  |
 | rumble  | The Speed Rumbler (set 1)                                                    | srumbler  |
+| rungun  | Run and Gun (ver EAA 1993 10.8)                                              | rungun    |
 | s16     | Ace Attacker (Japan, S16A) [FD1094 317-0060]                                 | aceattaca |
 | s16     | Action Fighter (World, S16A) [FD1089A 317-0018]                              | afighter  |
 | s16     | Alex Kidd: The Lost Stars (Set 2, World, S16A) [No Protection]               | alexkidd  |
@@ -195,7 +197,9 @@
 | s18     | Bloxeed (Japan) (FD1094 317-0139)                                            | bloxeed   |
 | s18     | Clockwork Aquario (prototype)                                                | aquario   |
 | s18     | Clutch Hitter (US) (FD1094 317-0176)                                         | cltchitr  |
+| s18     | D. D. Crew (World, 3 Players) (FD1094 317-0190)                              | ddcrew    |
 | s18     | Desert Breaker (World) (FD1094 317-0196)                                     | desertbr  |
+| s18     | Hammer Away (Japan, prototype)                                               | hamaway   |
 | s18     | Laser Ghost (World) (FD1094 317-0166)                                        | lghost    |
 | s18     | Michael Jackson's Moonwalker (World) (FD1094-8751 317-0159)                  | mwalk     |
 | s18     | Shadow Dancer (World)                                                        | shdancer  |
@@ -229,7 +233,6 @@
 | simson  | Vendetta (World, 4 Players, ver. T)                                          | vendetta  |
 | slyspy  | Boulder Dash - Boulder Dash Part 2 (World)                                   | bouldash  |
 | slyspy  | Secret Agent (World, revision 3)                                             | secretag  |
-| suratk  | Surprise Attack (World ver. K)                                               | suratk    |
 | thundr  | Genpei ToumaDen                                                              | genpeitd  |
 | thundr  | Hopping Mappy                                                                | hopmappy  |
 | thundr  | Metro-Cross (set 1)                                                          | metrocrs  |
@@ -255,4 +258,4 @@
 | xmen    | X-Men (4 Players ver EBA)                                                    | xmen      |
 | yiear   | Yie Ar Kung-Fu (program code I)                                              | yiear     |
 
-70 cores, supporting 254 games
+70 cores, supporting 257 games

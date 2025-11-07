@@ -218,6 +218,12 @@
 | daimakair    | jtcps1     | 657537b03050f067686496586e9aee76 | 7f,ff,ff     |
 | dangseed     | jtshouse   | 4b11abbde769d6753c21c9f76f01ef07 | ff           |
 | darkadv      | jttwin16   | 9770658c0ce771f5e3f2177cc6f0df20 | ff,5e,ff     |
+| ddcrew       | jts18      | bc371e3f607219f8168af052a9d5340c | ff,f7        |
+| ddcrew1      | jts18      | be760b24fc14145608a37fb61dacf30f | ff,f7        |
+| ddcrew2      | jts18      | 4b29ab226535b6fc12a0e792cebea222 | ff,f7        |
+| ddcrewj      | jts18      | 23de3c45f06ab53bc4fedcd4ce75cb38 | ff,f7        |
+| ddcrewj2     | jts18      | 6ee32091582b20a8ec76c5f6151b0be2 | ff,f7        |
+| ddcrewu      | jts18      | 026633210659b10ca7ed0668e5122524 | ff,f7        |
 | ddragon      | jtdd       | 20fd26784491a8d35a4799cc4227b68a | ff,ff        |
 | ddragon2     | jtdd2      | ee5ff67deb739a89fc27b6fc0ca78e2b | ff,96        |
 | ddragon2b    | jtdd2      | e3726956c80d97b424f254c127e85b7c | ff,96        |
@@ -394,6 +400,7 @@
 | gunsmokej    | jtgunsmk   | ece54e9f24d2e546cb0062f503d184ab | f7,ff        |
 | gunsmokeu    | jtgunsmk   | 030c5381e2e14eeac53111bf66742aea | f7,ff        |
 | gunsmokeuc   | jtgunsmk   | ecd2f603cf9d0520f66c98f81d93da5a | f7,ff        |
+| hamaway      | jts18      | 78169596e29f5efdfdd1ee35ab61ddae | ff,bf        |
 | hbarrel      | jtninja    | c064f3fc2e628fa68953a5a81700539b | ff,bf        |
 | hbarrelu     | jtninja    | 2b1e251a9a99f04b47169625acb208ef | ff,bf        |
 | hcastle      | jtcastle   | fa57e3e98d64b6ec7ae38c38eec37dba | ff,53,ff     |
@@ -675,6 +682,10 @@
 | rthunder2    | jtthundr   | fa4d6999a8ddb1df96997fdeaef59a18 | ff,f8        |
 | rthundera    | jtthundr   | d0aba8f190c6991607f221d4ff17db0c | ff,f8        |
 | rumba        | jtflstory  | 924fc213456df0f3480c6cbf2cb84cc2 | fc,00,e3     |
+| rungun       | jtrungun   | ef58338c6eec144686d3634228a6f277 | 8f           |
+| runguna      | jtrungun   | 4ecfd8f43f496898e2803c6d70e27b57 | 8f           |
+| rungunb      | jtrungun   | a48060b299b11885042121486de4a8ec | 8f           |
+| rungunua     | jtrungun   | 7eddabc0da5cb0966e6d9e3c83bbc64f | 8f           |
 | rushcrsh     | jtrumble   | 4f09aed603e4590fd2b8cadd6a796edf | ff,73        |
 | ryukendn     | jtgaiden   | 8bf88cefc29877f94896f4ae92c4939f | ff,ff        |
 | ryukendna    | jtgaiden   | bab876b02899e98be413632982f6f63a | ff,ff        |
@@ -911,9 +922,9 @@
 | striderua    | jtcps1     | 1313f2c0949e67b8c4dab96dd71856a4 | ff,fd,ff     |
 | strideruc    | jtcps1     | d1d52503d329441ea51b411e6009f4e2 | ff,fd,ff     |
 | suprleag     | jts16b     | 60eac3924d5353c0ba872b74d0bb8242 | ff,fe        |
-| suratk       | jtsuratk   | 419d2d5789cbb026af0e9479a45db972 | ff,5a,ff     |
-| suratka      | jtsuratk   | 8a07490ca45722dee0fc2dcc894c2058 | ff,5a,ff     |
-| suratkj      | jtsuratk   | 68bffa11c72a2e78d0090e296cee6fc5 | ff,5a,ff     |
+| suratk       | jtparoda   | 419d2d5789cbb026af0e9479a45db972 | ff,5a,ff     |
+| suratka      | jtparoda   | 8a07490ca45722dee0fc2dcc894c2058 | ff,5a,ff     |
+| suratkj      | jtparoda   | 68bffa11c72a2e78d0090e296cee6fc5 | ff,5a,ff     |
 | tankfrce     | jtshouse   | f8abd206a5b82f1c759f302ba16c6cd7 | ff,ff        |
 | tankfrce4    | jtshouse   | e9c9dfa2bcfa1d800dc3a8cf4229ec34 | ff,ff        |
 | tankfrcej    | jtshouse   | 55239f02c6fac6f70eb00fa584663923 | ff,ff        |

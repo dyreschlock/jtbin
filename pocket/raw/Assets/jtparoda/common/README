@@ -4,6 +4,9 @@ parodius.rom
 parodiusa.rom
 parodiuse.rom
 parodiusj.rom
+suratk.rom
+suratka.rom
+suratkj.rom
 
 These files are generated using the mra tool in:
 https://github.com/sebdel/mra-tools-c/tree/master/release

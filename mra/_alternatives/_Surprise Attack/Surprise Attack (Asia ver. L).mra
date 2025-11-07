@@ -28,18 +28,21 @@
     <year>1990</year>
     <manufacturer>Konami</manufacturer>
     <players>2</players>
-    <rbf>jtsuratk</rbf>
+    <rbf>jtparoda</rbf>
     <joystick>8</joystick>
     <region>World</region>
     <rom index="0" zip="suratka.zip|suratk.zip" md5="None" address="0x30000000" asm_md5="8a07490ca45722dee0fc2dcc894c2058">
         <!--  Header to identify the PCB type
+        Byte 0 = 1 - Parodius
         Byte 0 = 4 - Surprise Attack
                   -->
         <part>
             04 00 00 00 </part>
-        <!-- maincpu - starts at 0x0 - length 0x1E0000 (21 bits) -->
+        <!-- maincpu - starts at 0x0 - length 0x40000 (18 bits) -->
         <part name="911j01.f5" crc="1e647881"/>
         <part name="911l02.h5" crc="11db8288"/>
+        <!-- audiocpu - starts at 0x40000 -->
+        <!-- pcm - starts at 0x40000 - length 0x1A0000 (21 bits) -->
         <part repeat="0x1A0000"> FF</part>
         <!-- JTFRAME_BA2_START -->
         <!-- tiles - starts at 0x1E0000 - length 0x100000 (20 bits) -->
@@ -55,9 +58,6 @@
             <part name="911d04.bin" crc="20700bd2" map="2100"/>
         </interleave>
         <!-- Total 0x360000 bytes - 3456 kBytes -->
-    </rom>
-    <rom index="17" zip="jtbeta.zip" md5="None" asm_md5="3e2d7474f2c93d482866bc2952047160">
-        <part name="beta.bin" crc="32970d5"/>
     </rom>
     <nvram index="2" size="37025"/>
     <rom index="1">
