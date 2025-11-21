@@ -3,20 +3,8 @@
 		"magic": "APF_VER_1",
 		"variables": [
 			{
-				"name": "Bit2 (Unknown)",
-				"id": 0,
-				"type": "check",
-				"enabled": true,
-				"persist": true,
-				"address": "0xfa000000",
-				"defaultval": 0,
-				"value": 0,
-				"value_off": 4,
-				"mask": "0xFFFFFFFB"
-			},
-			{
 				"name": "Monitors",
-				"id": 1,
+				"id": 0,
 				"type": "list",
 				"enabled": true,
 				"persist": true,
@@ -37,7 +25,7 @@
 			},
 			{
 				"name": "Number of players",
-				"id": 2,
+				"id": 1,
 				"type": "list",
 				"enabled": true,
 				"persist": true,
@@ -58,7 +46,7 @@
 			},
 			{
 				"name": "Sound Output",
-				"id": 3,
+				"id": 2,
 				"type": "list",
 				"enabled": true,
 				"persist": true,
@@ -76,18 +64,6 @@
 						"value": "0x40"
 					}
 				]
-			},
-			{
-				"name": "Bit7 (Unknown)",
-				"id": 4,
-				"type": "check",
-				"enabled": true,
-				"persist": true,
-				"address": "0xfa000000",
-				"defaultval": 0,
-				"value": 0,
-				"value_off": 128,
-				"mask": "0xFFFFFF7F"
 			},
 			{
 				"name": "Default",

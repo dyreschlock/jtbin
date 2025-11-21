@@ -88,11 +88,9 @@
     </rom>
     <switches page_id="1" page_name="Switches" base="16" default="8f">
         <DSW/>
-        <dip name="Bit2 (Unknown)" bits="2" ids="On,Off"/>
         <dip name="Monitors" bits="4" ids="1,2"/>
         <dip name="Number of players" bits="5" ids="2,4"/>
         <dip name="Sound Output" bits="6" ids="Stereo,Mono"/>
-        <dip name="Bit7 (Unknown)" bits="7" ids="On,Off"/>
         <SYSTEM/>
     </switches>
     <buttons names="Shoot/Jump,Pass/Steal,Select,Start,Coin,Core credits" default="A,B,X,Start,Select,-" count="3"/>

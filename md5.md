@@ -95,10 +95,10 @@
 | aurail       | jts16b     | f93b74596a242dcb89d60be521fe8bf5 | ff,fd        |
 | aurail1      | jts16b     | 946db3c1eebdcb619b58bfa7ade63943 | ff,fd        |
 | aurailj      | jts16b     | c177237cada99fcbd0764f0b3cde1981 | ff,fd        |
-| avengers     | jttrojan   |                                  | ff,ff        |
-| avengersa    | jttrojan   |                                  | ff,ff        |
-| avengersb    | jttrojan   |                                  | ff,ff        |
-| avengersc    | jttrojan   |                                  | ff,ff        |
+| avengers     | jttrojan   | a18f1207d50a5302ae3883ce657caf28 | ff,ff        |
+| avengersa    | jttrojan   | c607b88cd515175c9a239d3cb004193a | ff,ff        |
+| avengersb    | jttrojan   | 99198c18c0d0e48559e89c934854f81d | ff,ff        |
+| avengersc    | jttrojan   | 8516986225fc84337421851c2f051295 | ff,ff        |
 | avsp         | jtcps2     | b6404697e8a4c5285ae41600a9c041d2 | ff,ff        |
 | avspa        | jtcps2     | 01d8a842de5eac22b89556d0d9ca77c8 | ff,ff        |
 | avspd        | jtcps2     | 1a0c720bc66ba16c74d8d79e14e487af | ff,ff        |
@@ -150,8 +150,8 @@
 | bublcave10   | jtbubl     | 7710467e84e36e4ae808b76569f12f3c | ff,ff        |
 | bublcave11   | jtbubl     | d4a47ffdc71e6c6f147054af03032067 | ff,ff        |
 | bullet       | jts16b     | f90ca9abd612f8446da2f62d90790bbc | ff,fd        |
-| buraiken     | jttrojan   |                                  | ff,ff        |
-| buraikenb    | jttrojan   |                                  | ff,ff        |
+| buraiken     | jttrojan   | 3d6424fa5a6ac722992d0c7075c59042 | ff,ff        |
+| buraikenb    | jttrojan   | 693dc7ec6e4541b856627aaa67280198 | ff,ff        |
 | captcomm     | jtcps1     | 6544482d4fdffd3567d47e75daf0c42f | ff,f4,9f     |
 | captcommj    | jtcps1     | 14b7f6326731641ab30f448963553ed3 | ff,f4,9f     |
 | captcommjr1  | jtcps1     | e3e8559da07ed54e230726c261c9b3ce | ff,f4,9f     |
